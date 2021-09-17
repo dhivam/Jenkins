@@ -1,5 +1,5 @@
 @Library('library-test@master') _
 deliveryPipeline(
-text: "Jenkins1"
+text: "Jenkins1",
 agent: "dockerworker"
 )
